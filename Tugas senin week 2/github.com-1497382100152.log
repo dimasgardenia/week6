@@ -1,0 +1,21 @@
+var number1 = 33;
+undefined
+var number2= 6;
+undefined
+var string1= "foo"
+undefined
+var string2= "bar"
+undefined
+var boolean1= "true"
+undefined
+var boolean2= "false"
+undefined
+console.log(number1)
+VM166:1 33
+undefined
+console.log(number2)
+VM210:1 6
+undefined
+console.log(string1)
+VM250:1 foo
+undefined
